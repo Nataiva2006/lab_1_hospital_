@@ -1,0 +1,7 @@
+[ {
+  "id" : 1,
+  "name" : "Petro",
+  "specialization" : "cardiologist",
+  "appointments" : [ "Olena записаний до Petro на 5.4.2020" ],
+  "info" : "Doctor: Petro (cardiologist)"
+} ]
