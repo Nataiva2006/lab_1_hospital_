@@ -1,7 +1,7 @@
 [ {
   "id" : 1,
   "name" : "Petro",
-  "specialization" : "cardiologist",
-  "appointments" : [ "Olena записаний до Petro на 5.4.2020" ],
-  "info" : "Doctor: Petro (cardiologist)"
+  "specialization" : "Cardiologist",
+  "appointments" : [ "Masha записаний до Petro на 5.12.2025 14:30" ],
+  "info" : "Doctor: Petro (Cardiologist)"
 } ]
